@@ -1,2 +1,2 @@
-# machine-learning-in-fortran
-Machine learning algoritms in Fortran
+# Machine learning algoritms in Fortran
+
